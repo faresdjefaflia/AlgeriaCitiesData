@@ -1,0 +1,25 @@
+{
+  "name": "algeriacitiesdata",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/faresdjefaflia/AlgeriaCitiesData#readme",
+  "bugs": {
+    "url": "https://github.com/faresdjefaflia/AlgeriaCitiesData/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faresdjefaflia/AlgeriaCitiesData.git"
+  },
+  "license": "ISC",
+  "author": "faresdjefaflia",
+  "type": "commonjs",
+  "main": "addCities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "pg": "^8.16.2"
+  }
+}
