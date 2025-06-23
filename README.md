@@ -116,5 +116,4 @@ Using ASCII names for logic (`*_ascii`) and Arabic names for display (`*_ar`).
 
 Data adapted from official Algerian administrative sources and formatted for PostgreSQL + Node.js usage.
 
-```
-```
+Thanks: https://github.com/othmanus/algeria-cities
