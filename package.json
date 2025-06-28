@@ -1,25 +1,20 @@
 {
   "name": "algeriacitiesdata",
-  "version": "1.0.0",
-  "description": "",
-  "homepage": "https://github.com/faresdjefaflia/AlgeriaCitiesData#readme",
-  "bugs": {
-    "url": "https://github.com/faresdjefaflia/AlgeriaCitiesData/issues"
+  "version": "2.0.0",
+  "description": "A library to load Algerian wilayas data with dairas and communes into a PostgreSQL database.",
+  "main": "setup.js",
+  "bin": {
+    "algeriacitiesdata": "./setup.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/faresdjefaflia/AlgeriaCitiesData.git"
-  },
-  "license": "ISC",
-  "author": "faresdjefaflia",
-  "type": "commonjs",
-  "main": "addCities.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node setup.js"
   },
+  "keywords": ["wilaya", "algeria", "postgresql", "import", "municipalities"],
+  "author": "faresdjefaflia",
+  "license": "MIT",
+  "type": "commonjs",
   "dependencies": {
-    "dotenv": "^16.5.0",
-    "fs": "^0.0.1-security",
-    "pg": "^8.16.2"
+    "pg": "^8.11.3",
+    "prompt-sync": "^4.2.0"
   }
 }
