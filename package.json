@@ -1,6 +1,6 @@
 {
   "name": "algeriacitiesdata",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A library to load Algerian wilayas data with dairas and communes into a PostgreSQL database.",
   "main": "setup.js",
   "bin": {
