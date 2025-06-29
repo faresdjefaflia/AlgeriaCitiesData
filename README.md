@@ -1,5 +1,5 @@
 
-# 🇩🇿 Algeria Cities Data (Wilayas, Dairas, Communes) for PostgreSQL + Node.js
+# 🇩🇿 Algeria Cities Data (Wilayas, Dairas, Communes) for PostgreSQL
 
 A simple CLI tool to import structured data of Algerian
 
