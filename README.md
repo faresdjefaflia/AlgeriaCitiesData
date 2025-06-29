@@ -1,8 +1,7 @@
 
----
+# 🇩🇿 Algeria Cities Data (Wilayas, Dairas, Communes) for PostgreSQL + Node.js
 
-AlgeriaCitiesData 🇩🇿
-A simple CLI tool to import structured data of Algerian **Wilayas**, **Dairas**, and **Communes** into a PostgreSQL database.
+A simple CLI tool to import structured data of Algerian
 
 ---
 
